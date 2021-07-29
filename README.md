@@ -12,3 +12,6 @@ Criar um novo projeto.
 Copiar as pastas.
 Reload no CMakeList.txt.
 Executar o codigo.
+
+## DISCLAIMER
+Project develop with [João André](https://github.com/JoaoAMarinho "JoaoAMarinho") and [Matilde Oliveira](https://github.com/maildejoliveira "maildejoliveira").
