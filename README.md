@@ -2,7 +2,7 @@
 Project develop for the course unit "Concepção e Análise de Algoritmos" while studing in FEUP
 
 # Description 
-[Baker delivery path](docs/project_description.png)
+![Baker delivery path](docs/project_description.png)
 
 ### Librarias
 GraphViewerCpp fornecido na pasta lib
